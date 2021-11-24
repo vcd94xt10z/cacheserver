@@ -1,0 +1,12 @@
+[
+    {
+        "domain": "sony.com",
+        "forwardTo": "https://origin.sony.com",
+        "folderName": "sony"
+    },
+    {
+        "domain": "microsoft.com",
+        "forwardTo": "https://origin.microsoft.com",
+        "folderName": "microsoft"
+    }
+]
